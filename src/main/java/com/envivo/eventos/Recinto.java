@@ -2,7 +2,6 @@ package com.envivo.eventos;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.String;
 
 public class Recinto {
     private final String id;

@@ -3,7 +3,6 @@ package com.envivo.eventos;
 import com.envivo.common.Money;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.String;
 
 public class Seccion {
     private final String id;

@@ -1,7 +1,10 @@
 package com.envivo.usuarios;
 
 import java.util.Set;
+<<<<<<< HEAD
 import java.util.String;
+=======
+>>>>>>> 7911bb8ce69823e20b5baf5ede18b3bf50087729
 
 public class Usuario {
     private final String id;

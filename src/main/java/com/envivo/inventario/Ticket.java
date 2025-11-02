@@ -4,8 +4,6 @@ import com.envivo.common.Money;
 import com.envivo.eventos.Asiento;
 import com.envivo.eventos.Funcion;
 
-import java.util.String;
-
 public class Ticket {
     private final String id;
     private final Funcion funcion;

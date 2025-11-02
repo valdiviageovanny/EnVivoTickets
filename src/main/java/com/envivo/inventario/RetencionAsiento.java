@@ -1,7 +1,6 @@
 package com.envivo.inventario;
 
 import java.time.LocalDateTime;
-import java.util.String;
 
 public class RetencionAsiento {
     private final String id;

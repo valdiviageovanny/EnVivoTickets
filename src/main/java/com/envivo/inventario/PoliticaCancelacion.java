@@ -19,7 +19,7 @@ public class PoliticaCancelacion {
     }
 
     public Money calcularPenalidad(Money total) {
-        // Simplificado: penalidad fija (podría ser porcentual según reglas)
+        //penalidad
         return penalidad;
     }
 }

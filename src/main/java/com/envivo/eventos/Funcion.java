@@ -1,7 +1,6 @@
 package com.envivo.eventos;
 
 import java.time.LocalDateTime;
-import java.util.String;
 
 public class Funcion {
     private final String id;

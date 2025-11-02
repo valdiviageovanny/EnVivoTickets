@@ -1,7 +1,5 @@
 package com.envivo.eventos;
 
-import java.util.String;
-
 public class Asiento {
     private final String id;
     private final String fila;
